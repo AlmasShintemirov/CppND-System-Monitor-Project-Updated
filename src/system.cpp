@@ -15,9 +15,9 @@ using std::size_t;
 using std::string;
 using std::vector;
 
-// TODO: Return the system's CPU
+// DONE: Return the system's CPU
 Processor& System::Cpu() {   
-    return cpu_; 
+    return cpu_;
 }
 
 // TODO: Return a container composed of the system's processes
@@ -38,7 +38,7 @@ std::string System::OperatingSystem() {
     return LinuxParser::OperatingSystem();
 }
 
-// TODO: Return the number of processes actively running on the system
+// DONE: Return the number of processes actively running on the system
 int System::RunningProcesses() { 
     return LinuxParser::RunningProcesses();
 }
