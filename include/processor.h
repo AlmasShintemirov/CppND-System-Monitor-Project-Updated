@@ -6,8 +6,7 @@ class Processor {
   Processor(){
   cpu_ = Utilization();
   }
-
-  void ReadData(int&, int&);
+  
   float Utilization();  // TODO: See src/processor.cpp
   // DONE: Declare any necessary private members
  private:
