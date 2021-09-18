@@ -1,6 +1,6 @@
 # CppND-System-Monitor
 
-Starter code for System Monitor Project in the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
+This is my personal solution for the System Monitor Project in the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
 
 Follow along with the classroom lesson to complete the project!
 
@@ -28,6 +28,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 ## Instructions
 
 1. Clone the project repository: `git clone https://github.com/udacity/CppND-System-Monitor-Project-Updated.git`
+Use default branch "my_project" for completed project or "master" branch for the starter Udacity project code.
 
 2. Build the project: `make build`
 
